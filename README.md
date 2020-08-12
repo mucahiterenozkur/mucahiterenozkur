@@ -28,7 +28,7 @@
 ### Hi, I'm Mücahit Eren Özkur, a passionate intern and software engineering sophomore from Istanbul.
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on<br> 
     📌 Microsoft Azure Cloud Technology
     📌 Docker 
     📌 Java Development
