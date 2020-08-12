@@ -11,7 +11,7 @@
   <img align="left" alt="Mücahit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/mucahiteren.ozkur">
-  <img align="left" alt="Mücahit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg />
+  <img align="left" alt="Mücahit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://discord.gg/gR8HXM">
   <img align="left" alt="Mücahit's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
