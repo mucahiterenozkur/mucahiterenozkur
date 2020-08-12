@@ -1,4 +1,4 @@
-### Hi there 👋 It's Mücahit over here!
+<!-- ### Hi there 👋 It's Mücahit over here! -->
 
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
  
