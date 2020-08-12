@@ -2,7 +2,7 @@
 
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
 
-[![Follow me on](https://imgur.com/a/1bzJWAk)][https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/]
+[![Follow me on][(https://imgur.com/a/1bzJWAk)]][https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/]
 
 <!--
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
