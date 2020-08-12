@@ -2,6 +2,7 @@
 
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
  
+<!--
 
 📷 [Instagram][instagram] **|** 
 👔 [Linkedin][linkedin] **|** 
@@ -26,3 +27,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
