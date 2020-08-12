@@ -3,8 +3,8 @@
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
  
 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+📷 [Instagram][instagram] **|** 
+👔 [Linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [instagram]: https://www.instagram.com/mucahiterenozkur/
