@@ -29,7 +29,7 @@
 
 
 - 🔭 I’m currently working on<br> 
-     " "📌 Microsoft Azure Cloud Technology<br>
+         📌 Microsoft Azure Cloud Technology<br>
      📌 Docker <br>
      📌 Java Development<br>
      📌 Unity
