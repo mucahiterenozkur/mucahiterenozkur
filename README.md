@@ -41,14 +41,14 @@
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎
 
 **Languages and Tools that I'm Using:** <br>
-&nbsp➰ Microsoft Azure<br>
-&nbsp➰ Visual Studio Code<br>
-&nbsp➰ Java <br>
-&nbsp➰ C<br>
-&nbsp➰ C++<br>
-&nbsp➰ Git<br>
-&nbsp➰ Github<br>
-&nbsp➰ Azure DevOps<br>
+&nbsp;➰ Microsoft Azure<br>
+&nbsp;➰ Visual Studio Code<br>
+&nbsp;➰ Java <br>
+&nbsp;➰ C<br>
+&nbsp;➰ C++<br>
+&nbsp;➰ Git<br>
+&nbsp;➰ Github<br>
+&nbsp;➰ Azure DevOps<br>
 
 
 
