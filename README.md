@@ -12,12 +12,12 @@
 [instagram]: https://www.instagram.com/mucahiterenozkur/
 [linkedin]: https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/
 [discord]: https://discord.gg/gR8HXM
-
+-->
 
 <!--
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
