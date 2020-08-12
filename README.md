@@ -25,7 +25,7 @@
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, I'm Mücahit Eren Özkur, a passionate intern and software engineering sophomore from Istanbul.<br><br>
+### Hi, I'm Mücahit Eren Özkur, a passionate intern and software engineering sophomore from Istanbul.<br>
 
 
 - 🔭 I’m currently working on;<br> 
