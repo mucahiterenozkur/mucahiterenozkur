@@ -2,6 +2,8 @@
 
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
 
+[![Follow me on][https://www.google.com/search?q=twitter+icon&rlz=1C1CHWL_trTR878TR878&sxsrf=ALeKk006ez94iiZJSULUh5RD0uRbPC0kxA:1597237593061&tbm=isch&source=iu&ictx=1&fir=zLV7q7JeVlhSGM%252CZJDfFmJJmJtAVM%252C_&vet=1&usg=AI4_-kRrNiC6k63HPyVMhBb5RdADzDUavQ&sa=X&ved=2ahUKEwiDruza3ZXrAhUS3IUKHfhxCkkQ9QEwAHoECAoQHA&biw=1536&bih=763#imgrc=zLV7q7JeVlhSGM]][https://twitter.com/mucahiterenozk1]
+
 <!--
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
