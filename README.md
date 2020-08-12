@@ -48,7 +48,7 @@
 &nbsp;➰ C++<br>
 &nbsp;➰ Git<br>
 &nbsp;➰ Github<br>
-&nbsp;➰ Azure DevOps<br>
+&nbsp;➰ Azure DevOps<br><br>
 
 <i>PS.  You can contact with me anytime by clicking my social media icons above.</i><br />
 <i>PS2. I'm also a gamer. If you want to play with me you can also add my steam account specified at the beginning of this writing 😊.</i><br /><br>
