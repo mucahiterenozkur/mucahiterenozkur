@@ -25,13 +25,17 @@
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi, I'm Mücahit Eren Özkur, a passionate intern and software engineering sophomore from Istanbul.
+### Hi, I'm Mücahit Eren Özkur, a passionate intern and software engineering sophomore from Istanbul.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on 
+    📌 Microsoft Azure Cloud Technology
+    📌 Docker 
+    📌 Java Development
+    📌 Unity
+- 🌱 I’m currently learning 
+    🔥 Azure Cloud Technology 
+    🔥 Game Development
 - 💬 Ask me about anything and we try to make it together
-- 📫 How to reach me: you can reach me via my email address or social media platforms
+- 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎
