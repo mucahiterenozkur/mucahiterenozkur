@@ -5,11 +5,12 @@
 
 📷 [Instagram][instagram] **|** 
 👔 [Linkedin][linkedin]
+📷 [Discord][discord] **|** 
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [instagram]: https://www.instagram.com/mucahiterenozkur/
 [linkedin]: https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/
-
+[discord]: https://discord.gg/gR8HXM
 
 
 <!--
