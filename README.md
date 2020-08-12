@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Mücahit over here!
 
- [![Follow me]http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 
+ [!Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 
 
 <!--
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
