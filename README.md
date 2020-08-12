@@ -2,6 +2,8 @@
 
  <!-- [Follow me http://i.imgur.com/tXSoThF.png]https://twitter.com/mucahiterenozk1 --> 
  
+ <!--
+ 
  <br/>
 
 <a href="https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/">
@@ -22,7 +24,7 @@
 
 
 <br />
- 
+ -->
 <!--
 
 📷 [Instagram][instagram] **|** 
