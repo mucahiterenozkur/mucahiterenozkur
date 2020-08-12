@@ -29,13 +29,13 @@
 
 
 - 🔭 I’m currently working on<br> 
-    📌 Microsoft Azure Cloud Technology<br>
-    📌 Docker <br>
-    📌 Java Development<br>
-    📌 Unity
+     📌 Microsoft Azure Cloud Technology<br>
+     📌 Docker <br>
+     📌 Java Development<br>
+     📌 Unity
 - 🌱 I’m currently learning<br>
-    🔥 Azure Cloud Technology<br>
-    🔥 Game Development
+     🔥 Azure Cloud Technology<br>
+     🔥 Game Development
 - 💬 Ask me about anything and we try to make it together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎
