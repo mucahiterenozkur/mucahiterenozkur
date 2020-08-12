@@ -4,7 +4,7 @@
  
 
 📷 [Instagram][instagram] **|** 
-👔 [Linkedin][linkedin]
+👔 [Linkedin][linkedin] **|** 
 📷 [Discord][discord] **|** 
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
