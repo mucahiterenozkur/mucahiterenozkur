@@ -29,10 +29,10 @@
 
 
 - 🔭 I’m currently working on<br> 
-     📌📌 Microsoft Azure Cloud Technology<br>
-     📌📌 Docker <br>
-     📌📌 Java Development<br>
-     📌📌 Unity
+     〰〰 Microsoft Azure Cloud Technology<br>
+     〰〰 Docker <br>
+     〰〰 Java Development<br>
+     〰〰 Unity
 - 🌱 I’m currently learning<br>
      〰〰 Azure Cloud Technology<br>
      〰〰 Game Development
