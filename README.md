@@ -39,3 +39,16 @@
 - 💬 Ask me about anything and we try to make it together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎
+
+**Languages and Tools that I'm Using:**  
+Microsoft Azure
+Visual Studio Code
+Java 
+C
+C++
+Git
+Github
+Azure DevOps
+
+
+
