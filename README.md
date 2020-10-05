@@ -2,7 +2,7 @@
  
  <br/>
 
-<a href="https://www.linkedin.com/in/m%C3%BCcahit-eren-%C3%B6zkur-568475177/">
+<a href="https://www.linkedin.com/in/mucahiterenozkur/">
   <img align="left" alt="Mücahit's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mucahiterenozkur/">
