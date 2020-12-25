@@ -29,26 +29,28 @@
 
 
 - 🔭 I’m currently working on;<br> 
-     &nbsp;〰 Microsoft Azure Cloud Technology<br>
-     &nbsp;〰 Docker <br>
-     &nbsp;〰 Java Development<br>
-     &nbsp;〰 Unity<br><br>
+     &nbsp;〰 Unity <br>
+     &nbsp;〰 Microsoft Azure Cloud Technology <br>
+     &nbsp;〰 Docker<br>
+     &nbsp;〰 Java Development<br><br>
 - 🌱 I’m currently learning;<br>
-     &nbsp;〰 Azure Cloud Technology<br>
-     &nbsp;〰 Game Development<br><br>
+     &nbsp;〰 Game Development<br>
+     &nbsp;〰 Azure Cloud Technology<br><br>
 - 💬 Ask me about anything and we try to find out together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎 <br><br>
 
 **Languages and Tools that I'm Using:** <br>
-&nbsp;➰ Microsoft Azure<br>
+&nbsp;➰ Unity Game Engine<br>
 &nbsp;➰ Visual Studio Code<br>
+&nbsp;➰ Microsoft Azure<br>
+&nbsp;➰ Git<br>
+&nbsp;➰ Github<br>
+&nbsp;➰ Microsoft Teams<br>
 &nbsp;➰ Netbeans Swing<br>
 &nbsp;➰ Java <br>
 &nbsp;➰ C<br>
 &nbsp;➰ C++<br>
-&nbsp;➰ Git<br>
-&nbsp;➰ Github<br>
 &nbsp;➰ Azure DevOps<br><br>
 
 <i>PS.  You can contact with me anytime by clicking my social media icons above.</i><br />
