@@ -35,7 +35,7 @@
      &nbsp;〰 Java Development<br><br>
 - 🌱 I’m currently learning;<br>
      &nbsp;〰 Game Development<br>
-     &nbsp;〰 Azure Cloud Technology<br><br>
+     &nbsp;〰 Cloud Technology<br><br>
 - 💬 Ask me about anything and we try to find out together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎 <br><br>
