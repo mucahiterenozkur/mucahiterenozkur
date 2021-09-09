@@ -30,12 +30,12 @@
 
 - 🔭 I’m currently working on;<br> 
      &nbsp;〰 Unity <br>
-     &nbsp;〰 Microsoft Azure Cloud Technology <br>
-     &nbsp;〰 Docker<br>
+     &nbsp;〰 Game Development Industry <br>
+     &nbsp;〰 Microsoft Azure Cloud Technology<br>
      &nbsp;〰 Java Development<br><br>
 - 🌱 I’m currently learning;<br>
-     &nbsp;〰 Game Development<br>
-     &nbsp;〰 Cloud Technology<br><br>
+     &nbsp;〰 Finance<br>
+     &nbsp;〰 Cryptography<br><br>
 - 💬 Ask me about anything and we try to find out together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎 <br><br>
@@ -46,9 +46,11 @@
 &nbsp;➰ Microsoft Azure<br>
 &nbsp;➰ Git<br>
 &nbsp;➰ Github<br>
+&nbsp;➰ Github Desktop<br>
 &nbsp;➰ Microsoft Teams<br>
 &nbsp;➰ Netbeans Swing<br>
 &nbsp;➰ Java <br>
+&nbsp;➰ C#<br>
 &nbsp;➰ C<br>
 &nbsp;➰ C++<br>
 &nbsp;➰ Azure DevOps<br><br>
