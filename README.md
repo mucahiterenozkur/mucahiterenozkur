@@ -5,6 +5,15 @@
 <a href="https://www.linkedin.com/in/mucahiterenozkur/">
   <img align="left" alt="Mücahit's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://mucahiterenozkur.itch.io/">
+  <img align="left" alt="Mücahit's Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCY7yBMEWy2ZUZJ5XMtpG7aQ">
+  <img align="left" alt="Mücahit's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://www.twitch.tv/cartilagotv">
+  <img align="left" alt="Mücahit's Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />
+</a>
 <a href="https://www.instagram.com/mucahiterenozkur/">
   <img align="left" alt="Mücahit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -25,7 +34,7 @@
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, I'm Mücahit Eren Özkur, a passionate human being and software engineering junior from Istanbul.<br><br>
+### Hi, I'm Mücahit Eren Özkur, a passionate human being and software engineering senior student from Istanbul.<br><br>
 
 
 - 🔭 I’m currently working on;<br> 
@@ -48,6 +57,9 @@
 &nbsp;➰ Github<br>
 &nbsp;➰ Github Desktop<br>
 &nbsp;➰ Microsoft Teams<br>
+&nbsp;➰ Adobe XD<br>
+&nbsp;➰ OBS Studio<br>
+&nbsp;➰ One Note<br>
 &nbsp;➰ Netbeans Swing<br>
 &nbsp;➰ Java <br>
 &nbsp;➰ C#<br>
