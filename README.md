@@ -53,6 +53,7 @@
 &nbsp;➰ Unity Game Engine<br>
 &nbsp;➰ Visual Studio Code<br>
 &nbsp;➰ Microsoft Azure<br>
+&nbsp;➰ Playfab<br>
 &nbsp;➰ Git<br>
 &nbsp;➰ Github<br>
 &nbsp;➰ Github Desktop<br>
