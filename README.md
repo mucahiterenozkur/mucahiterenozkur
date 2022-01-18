@@ -38,11 +38,13 @@
 
 
 - 🔭 I’m currently working on;<br> 
+     &nbsp;〰 Swift<br>
      &nbsp;〰 Unity <br>
      &nbsp;〰 Game Development Industry <br>
-     &nbsp;〰 Microsoft Azure Cloud Technology<br>
-     &nbsp;〰 Java Development<br><br>
+     &nbsp;〰 Microsoft Azure Cloud Technology<br><br>
+     
 - 🌱 I’m currently learning;<br>
+     &nbsp;〰 Swift<br>
      &nbsp;〰 Finance<br>
      &nbsp;〰 Cryptography<br><br>
 - 💬 Ask me about anything and we try to find out together
@@ -52,6 +54,7 @@
 **Languages and Tools that I'm Using:** <br>
 &nbsp;➰ Unity Game Engine<br>
 &nbsp;➰ Visual Studio Code<br>
+&nbsp;➰ XCode<br>
 &nbsp;➰ Microsoft Azure<br>
 &nbsp;➰ Playfab<br>
 &nbsp;➰ Git<br>
