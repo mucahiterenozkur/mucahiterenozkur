@@ -45,8 +45,8 @@
      
 - 🌱 I’m currently learning;<br>
      &nbsp;〰 Swift<br>
-     &nbsp;〰 Finance<br>
-     &nbsp;〰 Cryptography<br><br>
+     &nbsp;〰 Finance<br><br>
+     
 - 💬 Ask me about anything and we try to find out together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎 <br><br>
@@ -66,6 +66,7 @@
 &nbsp;➰ One Note<br>
 &nbsp;➰ Netbeans Swing<br>
 &nbsp;➰ Java <br>
+&nbsp;➰ Swift <br>
 &nbsp;➰ C#<br>
 &nbsp;➰ C<br>
 &nbsp;➰ C++<br>
