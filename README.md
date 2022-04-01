@@ -39,10 +39,8 @@
 
 - 🔭 I’m currently working on;<br> 
      &nbsp;〰 Swift<br>
-     &nbsp;〰 Unity <br>
-     &nbsp;〰 Game Development Industry <br>
-     &nbsp;〰 Microsoft Azure Cloud Technology<br><br>
-     
+     &nbsp;〰 iOS Development <br>
+
 - 🌱 I’m currently learning;<br>
      &nbsp;〰 Swift<br>
      &nbsp;〰 Finance<br><br>
@@ -52,25 +50,25 @@
 - ⚡ Fun fact: My spirit is so hungry for information, opportunities and new challenges 😎 <br><br>
 
 **Languages and Tools that I'm Using:** <br>
-&nbsp;➰ Unity Game Engine<br>
-&nbsp;➰ Visual Studio Code<br>
 &nbsp;➰ XCode<br>
-&nbsp;➰ Microsoft Azure<br>
-&nbsp;➰ Playfab<br>
+&nbsp;➰ Swift <br>
+&nbsp;➰ Unity <br>
 &nbsp;➰ Git<br>
 &nbsp;➰ Github<br>
 &nbsp;➰ Github Desktop<br>
-&nbsp;➰ Microsoft Teams<br>
 &nbsp;➰ Adobe XD<br>
-&nbsp;➰ OBS Studio<br>
 &nbsp;➰ One Note<br>
 &nbsp;➰ Netbeans Swing<br>
 &nbsp;➰ Java <br>
-&nbsp;➰ Swift <br>
 &nbsp;➰ C#<br>
 &nbsp;➰ C<br>
 &nbsp;➰ C++<br>
-&nbsp;➰ Azure DevOps<br><br>
+&nbsp;➰ Azure DevOps<br>
+&nbsp;➰ Playfab<br>
+&nbsp;➰ Microsoft Teams<br>
+&nbsp;➰ Visual Studio Code<br>
+&nbsp;➰ Microsoft Azure<br>
+&nbsp;➰ OBS Studio<br><br>
 
 <i>PS.  You can contact with me anytime by clicking my social media icons above.</i><br />
 <i>PS2. I'm also a gamer. If you want to play games with me you can also add my steam account specified at the beginning of this writing 😊.</i><br /><br> 
