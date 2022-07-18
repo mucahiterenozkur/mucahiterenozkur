@@ -34,7 +34,7 @@
 **mucahiterenozkur/mucahiterenozkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, I'm Mücahit Eren Özkur, a passionate human being and software engineering senior student from Istanbul.<br><br>
+### Hi, I'm Mücahit Eren Özkur, a passionate human being from Istanbul.<br><br>
 
 
 - 🔭 I’m currently working on;<br> 
@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning;<br>
      &nbsp;〰 Swift<br>
-     &nbsp;〰 Finance<br><br>
+     &nbsp;〰 To be a medium writer<br><br>
      
 - 💬 Ask me about anything and we try to find out together
 - 📫 How to reach me: You can reach me via my email address or social media platforms
